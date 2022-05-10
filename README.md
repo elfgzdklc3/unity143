@@ -8,8 +8,8 @@ unity143
 #Ürün İle İlgili Bilgiler
 
 #Takım Elemanları
-E
-lif Gözde Kılıç:Product Owner/ Scrum Master/ Team Member/Developer
+
+Elif Gözde Kılıç:Product Owner/ Scrum Master/ Team Member/Developer
 Tuğba Benlioğlu: Belirlenemedi
 
 #Ürün İsmi
