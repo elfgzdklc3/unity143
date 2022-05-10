@@ -1,12 +1,15 @@
 Oyun ve Uygulama Akademisi
 
 #Takım İsmi
+
 unity143
 
 
 #Ürün İle İlgili Bilgiler
+
 #Takım Elemanları
-Elif Gözde Kılıç:Product Owner/ Scrum Master/ Team Member/Developer
+E
+lif Gözde Kılıç:Product Owner/ Scrum Master/ Team Member/Developer
 Tuğba Benlioğlu: Belirlenemedi
 
 #Ürün İsmi
