@@ -18,14 +18,17 @@ Tuğba Benlioğlu: Belirlenemedi
 --Rescue Mission--
 
 #Ürün Açıklaması
+
 Klasik bir kurtarma görevi biçilen ana karakter yol üzerinde karşılaştığı engelleri aşarak görevi tamamlamaya şartlıdır.
 
 
 #Ürün Özellikleri
+
 İlerletilebilecek bir konu bütünlüğü ve hikaye hedeflenmekte, 
 İlerleme sırasında açılan engellere bağlı puan yükseltme,
 Engel geçişlerinde ki başarısızlıklarda can kaybı.
 
 
 #Hedef Kitle
+
 Genç ve yetişkin genel kullanıcı için geliştirilecektir. 
